@@ -1,4 +1,4 @@
-# ox-p4ds <img src="images/oudce_logo.png"/>
+# ox-p4ds <img src="oudce_logo.png" align="right"/>
 Materials for [Programming for Data Science at Oxford](https://www.conted.ox.ac.uk/courses/programming-for-data-science) - **this page will be updated as the course progresses**.
 
 Download Slack: https://slack.com/get
