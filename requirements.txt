@@ -1,0 +1,10 @@
+matplotlib
+pandas
+scipy
+tweepy
+scrapy
+service_identity
+scikit-learn
+bokeh
+nltk
+ipykernel<5.0.0
