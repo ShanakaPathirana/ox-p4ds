@@ -45,8 +45,8 @@ git reset --hard origin/master
 
 Introduction to Data Science.
 - Lecture 1: https://s3.eu-west-2.amazonaws.com/ox-p4ds-assets/week1_lecture1.pdf
-- Little Women notebook example [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/djcomlab/ox-p4ds/master?filepath=notebooks%2Flittle_women_example.ipynb) or download from https://github.com/djcomlab/ox-p4ds/blob/master/notebooks/little_women_example.ipynb
-- Lab Exercise 1: Getting started with Jupyter Notebooks [TODO: Add this notebook (take from Jupyter Project)]
+- Little Women notebook example [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/djcomlab/ox-p4ds/master?filepath=notebooks%2Flittle_women_example.ipynb)
+- Lab Exercise 1: Getting started with Jupyter Notebooks [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/djcomlab/ox-p4ds/master?filepath=notebooks%2FLab01_Notebook_Basics.ipynb)
 
 ### Week 2
 
