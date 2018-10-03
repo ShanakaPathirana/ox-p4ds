@@ -2,15 +2,16 @@
 
 Materials for [Programming for Data Science at Oxford](https://www.conted.ox.ac.uk/courses/programming-for-data-science) - **this page will be updated as the course progresses**.
 
-Download Slack: https://slack.com/get
+The class workspace on **Slack** is https://ox-p4ds.slack.com where you have a dedicated class channel `#mt18`. I encourage you to ask questions should you have them in the Slack channel incase your classmates can help. David (your tutor) and Massi and Ramon (your assistant tutors) will also check Slack and provide support where possible. Download Slack from: https://slack.com/get
 
-The class workspace on Slack is https://ox-p4ds.slack.com where you have a dedicated class channel `#mt18`. I encourage you to ask questions should you have them in the Slack channel incase your classmates can help. David (your tutor) and Massi and Ramon (your assistant tutors) will also check Slack and provide support where possible.
 
-To use Jupyter yourself, I recommend you download and install the Anaconda Distribution, a Python Data Science Platform, from: https://www.anaconda.com/download/ Make sure you download the **Python 3** version of Anaconda.
+To use **Jupyter** yourself, I recommend you download and install **Anaconda**, a Python Data Science Platform, from: https://www.anaconda.com/download/ Make sure you download the **Python 3** version of Anaconda. You can also install Jupyter if you have a standard Python distribution installed. Ask your tutors for assistance if you need to install Jupyter on your own machine.
 
-Jupyter/Anaconda and Slack are also available to use in the Computer Teaching Room (CTR) at Rewley House.
+To get the contents of this repository I recommend that you install **Git SCM**, a source code management software, that will help you keep up-to-date with the repository. I will be adding content as the course progresses and Git will allow you to pull new material as it becomes available.
 
-You can also run online live versions of the notebooks that are launched by [Binder](https://mybinder.org) by clicking on the `binder` buttons below without having to install anything yourself. Please note that Binder is still in beta testing so may occasionally not work as expected.
+**Jupyter/Anaconda, Slack and Git are available to use in the Computer Teaching Room (CTR) at Rewley House.**
+
+You can also run online live versions of the notebooks that are launched by **[Binder](https://mybinder.org)** by clicking on the `binder` buttons below without having to install anything yourself. Please note that Binder is still in beta testing and is hosted by *University of California, Berkeley* so may occasionally not work as expected (but is quite reliable). 
 
 ### Cloning this repository to use at home
 
