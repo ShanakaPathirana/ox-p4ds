@@ -1,4 +1,5 @@
 # ox-p4ds <img src="oudce_logo.png" align="right"/>
+
 Materials for [Programming for Data Science at Oxford](https://www.conted.ox.ac.uk/courses/programming-for-data-science) - **this page will be updated as the course progresses**.
 
 Download Slack: https://slack.com/get
@@ -44,7 +45,7 @@ git reset --hard origin/master
 ### Week 1
 
 Introduction to Data Science.
-- Lecture 1: https://s3.eu-west-2.amazonaws.com/ox-p4ds-assets/week1_lecture1.pdf
+- Lecture 1: https://s3.eu-west-2.amazonaws.com/ox-p4ds-assets/p4ds_lecture1.pdf
 - Little Women notebook example [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/djcomlab/ox-p4ds/master?filepath=notebooks%2Flittle_women_example.ipynb)
 - Lab Exercise 1: Getting started with Jupyter Notebooks [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/djcomlab/ox-p4ds/master?filepath=notebooks%2FLab01_Notebook_Basics.ipynb)
 
