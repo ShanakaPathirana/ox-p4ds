@@ -118,7 +118,7 @@ Remaining time class time will be for working on the Capstone project.
 
 Details of the assignment will be made available in Week 9.
 
-*Deadline for assignment submission will be **Friday 14 December 2018, 11.59PM*** (subject to confirmation).
+*Deadline for assignment submission will be **Friday 17 December 2018, 11.59PM***.
 
 ### Links of interest
 - Useful links will be added here each week.
