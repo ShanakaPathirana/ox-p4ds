@@ -59,13 +59,13 @@ Python Primer.
 
 - Lecture 2: TBC
 - Practical exercise on Jupyter and getting started with Python
+- Practical exercise on Python data types and functions, NumPy
 
 ### Week 3
 
 Playing with Pandas.
 
 - Lecture 3: TBC
-- Practical exercise on Python data types and functions, NumPy
 - Practical exercise on tabular data with DataFrames, Pandas
 - Practical challenge exercise: Mining data about the London 2012 Olympics
 
@@ -74,7 +74,7 @@ Playing with Pandas.
 Data Visualization.
 
 - Lecture 4: TBC
-- Practical exercises on functions and data sisualizations
+- Practical exercises on functions and data visualizations
 
 ### Week 5
 
@@ -104,6 +104,7 @@ Sharing analyses.
 
 - Lecture 8: TBC
 - Practical exercises on documentation in notebooks using Markdown
+- Practical exercise on publishing your work on GitHub and Binder
 
 ### Week 9
 
@@ -117,7 +118,7 @@ Remaining time class time will be for working on the Capstone project.
 
 Details of the assignment will be made available in Week 9.
 
-*Deadline for assignment submission will be **Friday 14 December 2018, 11.59PM***.
+*Deadline for assignment submission will be **Friday 14 December 2018, 11.59PM*** (subject to confirmation).
 
 ### Links of interest
 - Useful links will be added here each week.
