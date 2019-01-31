@@ -59,8 +59,7 @@ Introduction to Data Science.
 Python Primer.
 
 - Lecture 2: handouts: https://tinyurl.com/ycvncsup
-- Practical exercise on Jupyter and getting started with Python
-- Practical exercise on Python data types and functions, NumPy
+- Exercise 5: getting started with Python, numbers, and functions: [![nbviewer](notebooks/images/render_nbviewer_button.png)](https://nbviewer.jupyter.org/github/djcomlab/ox-p4ds/blob/master/notebooks/Ex05_Expressions.ipynb) [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/djcomlab/ox-p4ds/master?filepath=notebooks%2FEx05_Expressions.ipynb)
 
 ### Week 3
 
