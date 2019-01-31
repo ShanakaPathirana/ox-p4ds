@@ -58,7 +58,7 @@ Introduction to Data Science.
 
 Python Primer.
 
-- Lecture 2: handouts: https://tinyurl.com/y96f2olk
+- Lecture 2: handouts: https://tinyurl.com/ycvncsup
 - Practical exercise on Jupyter and getting started with Python
 - Practical exercise on Python data types and functions, NumPy
 
