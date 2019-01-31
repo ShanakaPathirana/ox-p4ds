@@ -60,6 +60,7 @@ Python Primer.
 
 - Lecture 2: handouts: https://tinyurl.com/ycvncsup
 - Exercise 5: getting started with Python, numbers, and functions: [![nbviewer](notebooks/images/render_nbviewer_button.png)](https://nbviewer.jupyter.org/github/djcomlab/ox-p4ds/blob/master/notebooks/Ex05_Expressions.ipynb) [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/djcomlab/ox-p4ds/master?filepath=notebooks%2FEx05_Expressions.ipynb)
+- Link to evaluation form: https://goo.gl/forms/H2KKr2acQDetDhbl1
 
 ### Week 3
 
