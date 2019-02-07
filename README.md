@@ -59,7 +59,7 @@ Introduction to Data Science.
 Python Primer.
 
 - Lecture 2: handouts: https://tinyurl.com/ycvncsup
-- Exercise 5: getting started with Python, numbers, and functions: [![nbviewer](notebooks/images/render_nbviewer_button.png)](https://nbviewer.jupyter.org/github/djcomlab/ox-p4ds/blob/master/notebooks/Ex05_Expressions.ipynb) [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/djcomlab/ox-p4ds/master?filepath=notebooks%2FEx05_Expressions.ipynb)
+- Exercise 5: Getting started with Python, numbers, and functions: [![nbviewer](notebooks/images/render_nbviewer_button.png)](https://nbviewer.jupyter.org/github/djcomlab/ox-p4ds/blob/master/notebooks/Ex05_Expressions.ipynb) [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/djcomlab/ox-p4ds/master?filepath=notebooks%2FEx05_Expressions.ipynb)
 - Link to evaluation form: https://goo.gl/forms/H2KKr2acQDetDhbl1
 
 ### Week 3
@@ -67,8 +67,9 @@ Python Primer.
 Playing with Pandas.
 
 - Lecture 3: TBC
-- Practical exercise on tabular data with DataFrames, Pandas
-- Practical challenge exercise: Mining data about the London 2012 Olympics
+- Exercise 6: Data Types [![nbviewer](notebooks/images/render_nbviewer_button.png)](https://nbviewer.jupyter.org/github/djcomlab/ox-p4ds/blob/master/notebooks/Ex06_Data_Types.ipynb) [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/djcomlab/ox-p4ds/master?filepath=notebooks%2FEx06_Data_Types.ipynb)
+- Exercise 7: Tables [![nbviewer](notebooks/images/render_nbviewer_button.png)](https://nbviewer.jupyter.org/github/djcomlab/ox-p4ds/blob/master/notebooks/Ex07_Tables.ipynb) [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/djcomlab/ox-p4ds/master?filepath=notebooks%2FEx07_Tables.ipynb)
+- Exercise 8: Data Cleaning and Analysis (challenge) [![nbviewer](notebooks/images/render_nbviewer_button.png)](https://nbviewer.jupyter.org/github/djcomlab/ox-p4ds/blob/master/notebooks/Ex08_Data_Cleaning_and_Analysis.ipynb) [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/djcomlab/ox-p4ds/master?filepath=notebooks%2FEx08_Data_Cleaning_and_Analysis.ipynb)
 
 ### Week 4
 
@@ -122,4 +123,7 @@ Details of the assignment will be made available in Week 6.
 *Deadline for assignment submission will be **TDB April 2019, 11.59PM***.
 
 ### Links of interest
+- [Project Gutenberg](www.gutenberg.org/ebooks/). A free resources of public domain ebooks; nice source of natural language data to play with.
+- [Python for Everybody (online book)](https://www.py4e.com/html3/). An excellent introduction to the core parts of Python 3 programming. Chapters 1-9 are most relevant.
+- [A simple overview of Python variables, expressions and statements](https://www.pythonlearn.com/html-008/cfbook003.html).
 - Useful links will be added here each week.
