@@ -52,24 +52,23 @@ Introduction to Data Science.
 - Exercise 3: Working with Markdown cells [![nbviewer](notebooks/images/render_nbviewer_button.png)](https://nbviewer.jupyter.org/github/djcomlab/ox-p4ds/blob/master/notebooks/Ex03_Working_With_Markdown_Cells.ipynb) [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/djcomlab/ox-p4ds/master?filepath=notebooks%2FEx03_Working_With_Markdown_Cells.ipynb)
 - Exercise 4: Notebook Exercises [![nbviewer](notebooks/images/render_nbviewer_button.png)](https://nbviewer.jupyter.org/github/djcomlab/ox-p4ds/blob/master/notebooks/Ex04_Notebook_Exercises.ipynb) [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/djcomlab/ox-p4ds/master?filepath=notebooks%2FEx04_Notebook_Exercises.ipynb)
 - Little Women notebook example [![nbviewer](notebooks/images/render_nbviewer_button.png)](https://nbviewer.jupyter.org/github/djcomlab/ox-p4ds/blob/master/notebooks/Week1_Little_Women.ipynb) [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/djcomlab/ox-p4ds/master?filepath=notebooks%2FWeek1_Little_Women.ipynb)
-- Link to evaluation form: https://goo.gl/forms/H2KKr2acQDetDhbl1
 
 ### Week 2
 
 Python Primer.
 
-- Lecture 2: handouts: https://tinyurl.com/ycvncsup
+- Lecture 2 handouts: https://tinyurl.com/ycvncsup
 - Exercise 5: Getting started with Python, numbers, and functions: [![nbviewer](notebooks/images/render_nbviewer_button.png)](https://nbviewer.jupyter.org/github/djcomlab/ox-p4ds/blob/master/notebooks/Ex05_Expressions.ipynb) [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/djcomlab/ox-p4ds/master?filepath=notebooks%2FEx05_Expressions.ipynb)
-- Link to evaluation form: https://goo.gl/forms/H2KKr2acQDetDhbl1
 
 ### Week 3
 
 Playing with Pandas.
 
-- Lecture 3: TBC
+- Lecture 3: Lecture 3 handouts: https://goo.gl/H51dVE
 - Exercise 6: Data Types [![nbviewer](notebooks/images/render_nbviewer_button.png)](https://nbviewer.jupyter.org/github/djcomlab/ox-p4ds/blob/master/notebooks/Ex06_Data_Types.ipynb) [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/djcomlab/ox-p4ds/master?filepath=notebooks%2FEx06_Data_Types.ipynb)
 - Exercise 7: Tables [![nbviewer](notebooks/images/render_nbviewer_button.png)](https://nbviewer.jupyter.org/github/djcomlab/ox-p4ds/blob/master/notebooks/Ex07_Tables.ipynb) [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/djcomlab/ox-p4ds/master?filepath=notebooks%2FEx07_Tables.ipynb)
 - Exercise 8: Data Cleaning and Analysis (challenge) [![nbviewer](notebooks/images/render_nbviewer_button.png)](https://nbviewer.jupyter.org/github/djcomlab/ox-p4ds/blob/master/notebooks/Ex08_Data_Cleaning_and_Analysis.ipynb) [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/djcomlab/ox-p4ds/master?filepath=notebooks%2FEx08_Data_Cleaning_and_Analysis.ipynb)
+- Link to evaluation form: https://goo.gl/forms/H2KKr2acQDetDhbl1
 
 ### Week 4
 
