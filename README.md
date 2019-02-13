@@ -71,14 +71,14 @@ Playing with Pandas.
 - Exercise 8: Data Cleaning and Analysis (challenge) [![nbviewer](notebooks/images/render_nbviewer_button.png)](https://nbviewer.jupyter.org/github/djcomlab/ox-p4ds/blob/master/notebooks/Ex08_Data_Cleaning_and_Analysis.ipynb) [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/djcomlab/ox-p4ds/master?filepath=notebooks%2FEx08_Data_Cleaning_and_Analysis.ipynb)
 - Week 3 Live notebook [![nbviewer](notebooks/images/render_nbviewer_button.png)](https://nbviewer.jupyter.org/github/djcomlab/ox-p4ds/blob/master/notebooks/Week3_Live.ipynb) [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/djcomlab/ox-p4ds/master?filepath=notebooks%2FWeek3_Live.ipynb)
 - Week 3 Live notebook 2 [![nbviewer](notebooks/images/render_nbviewer_button.png)](https://nbviewer.jupyter.org/github/djcomlab/ox-p4ds/blob/master/notebooks/Week3_Live2.ipynb) [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/djcomlab/ox-p4ds/master?filepath=notebooks%2FWeek3_Live2.ipynb)
-- Link to evaluation form: https://goo.gl/forms/H2KKr2acQDetDhbl1
 
 ### Week 4
 
 Getting data from public sources.
 
-- Lecture 4: TBC
-- Practical exercises on getting data from Twitter
+- Lecture 4: https://goo.gl/zjFh94
+- Practical exercise on getting data from Twitter
+- Link to evaluation form: https://goo.gl/forms/H2KKr2acQDetDhbl1
 
 ### Week 5
 
