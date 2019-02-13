@@ -75,40 +75,41 @@ Playing with Pandas.
 
 ### Week 4
 
-Data Visualization.
+Getting data from public sources.
 
 - Lecture 4: TBC
-- Practical exercises on functions and data visualizations
+- Practical exercises on getting data from Twitter
 
 ### Week 5
 
-Big Data.
+Data Visualization.
 
 - Lecture 5: TBC
-- Practical excersises on data formatting and MapReduce
+- Practical exercises on functions and data visualizations
 
 ### Week 6
 
-Getting data from public sources.
+Sharing analyses.
 
 - Lecture 6: TBC
-- Practical exercises on getting data from Twitter
+- Practical exercises on documentation in notebooks using Markdown
+- Practical exercise on publishing your work on GitHub and Binder
 
 ### Week 7
 
-Machine Learning.
+Big Data.
 
 - Lecture 7: TBC
-- Practical exercise on a simple Machine Learning
-- Practical exercises on Sentiment Analysis
+- Practical excersises on data formatting and MapReduce
+
 
 ### Week 8
 
-Sharing analyses.
+Machine Learning.
 
 - Lecture 8: TBC
-- Practical exercises on documentation in notebooks using Markdown
-- Practical exercise on publishing your work on GitHub and Binder
+- Practical exercise on a simple Machine Learning
+- Practical exercises on Sentiment Analysis
 
 ### Week 9
 
