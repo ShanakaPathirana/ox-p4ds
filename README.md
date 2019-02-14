@@ -67,8 +67,11 @@ Playing with Pandas.
 
 - Lecture 3 handouts: https://goo.gl/H51dVE
 - Exercise 6: Data Types [![nbviewer](notebooks/images/render_nbviewer_button.png)](https://nbviewer.jupyter.org/github/djcomlab/ox-p4ds/blob/master/notebooks/Ex06_Data_Types.ipynb) [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/djcomlab/ox-p4ds/master?filepath=notebooks%2FEx06_Data_Types.ipynb)
+- Exercise 6: Data Types (complete) [![nbviewer](notebooks/images/render_nbviewer_button.png)](https://nbviewer.jupyter.org/github/djcomlab/ox-p4ds/blob/master/notebooks/Ex06_Data_Types_complete.ipynb) [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/djcomlab/ox-p4ds/master?filepath=notebooks%2FEx06_Data_Types_complete.ipynb)
 - Exercise 7: Tables [![nbviewer](notebooks/images/render_nbviewer_button.png)](https://nbviewer.jupyter.org/github/djcomlab/ox-p4ds/blob/master/notebooks/Ex07_Tables.ipynb) [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/djcomlab/ox-p4ds/master?filepath=notebooks%2FEx07_Tables.ipynb)
+- Exercise 7: Tables (complete) [![nbviewer](notebooks/images/render_nbviewer_button.png)](https://nbviewer.jupyter.org/github/djcomlab/ox-p4ds/blob/master/notebooks/Ex07_Tables_complete.ipynb) [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/djcomlab/ox-p4ds/master?filepath=notebooks%2FEx07_Tables_complete.ipynb)
 - Exercise 8: Data Cleaning and Analysis (challenge) [![nbviewer](notebooks/images/render_nbviewer_button.png)](https://nbviewer.jupyter.org/github/djcomlab/ox-p4ds/blob/master/notebooks/Ex08_Data_Cleaning_and_Analysis.ipynb) [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/djcomlab/ox-p4ds/master?filepath=notebooks%2FEx08_Data_Cleaning_and_Analysis.ipynb)
+- Exercise 8: Data Cleaning and Analysis (challenge) (complete) [![nbviewer](notebooks/images/render_nbviewer_button.png)](https://nbviewer.jupyter.org/github/djcomlab/ox-p4ds/blob/master/notebooks/Ex08_Data_Cleaning_and_Analysis_complete.ipynb) [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/djcomlab/ox-p4ds/master?filepath=notebooks%2FEx08_Data_Cleaning_and_Analysis_complete.ipynb)
 - Week 3 Live notebook [![nbviewer](notebooks/images/render_nbviewer_button.png)](https://nbviewer.jupyter.org/github/djcomlab/ox-p4ds/blob/master/notebooks/Week3_Live.ipynb) [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/djcomlab/ox-p4ds/master?filepath=notebooks%2FWeek3_Live.ipynb)
 - Week 3 Live notebook 2 [![nbviewer](notebooks/images/render_nbviewer_button.png)](https://nbviewer.jupyter.org/github/djcomlab/ox-p4ds/blob/master/notebooks/Week3_Live2.ipynb) [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/djcomlab/ox-p4ds/master?filepath=notebooks%2FWeek3_Live2.ipynb)
 
@@ -77,7 +80,7 @@ Playing with Pandas.
 Getting data from public sources.
 
 - Lecture 4: https://goo.gl/zjFh94
-- Practical exercise on getting data from Twitter
+- Exercise 9: Twitter API with Tweepy [![nbviewer](notebooks/images/render_nbviewer_button.png)](https://nbviewer.jupyter.org/github/djcomlab/ox-p4ds/blob/master/notebooks/Ex09_Twitter_API_with_Tweepy.ipynb) [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/djcomlab/ox-p4ds/master?filepath=notebooks%2FEx09_Twitter_API_with_Tweepy.ipynb)
 - Link to evaluation form: https://goo.gl/forms/H2KKr2acQDetDhbl1
 
 ### Week 5
