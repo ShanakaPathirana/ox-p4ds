@@ -122,11 +122,19 @@ Course recap and Capstone Project.
 
 Remaining time class time will be for working on the Capstone project.
 
-### Capstone Project
+### Capstone Project [![nbviewer](notebooks/images/render_nbviewer_button.png)](https://nbviewer.jupyter.org/github/djcomlab/ox-p4ds/blob/master/notebooks/Capstone_Project_HT19.ipynb) [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/djcomlab/ox-p4ds/master?filepath=notebooks%2FCapstone_Project_HT19.ipynb)
 
-Details of the assignment will be made available in Week 6.
+However, please note that the notebook relies on some data files that are included in notebooks folder of this repository.
 
-*Deadline for assignment submission will be **TDB April 2019, 11.59PM***.
+The Capstone Project is the final part of this course in which you should be able to demonstrate most of what you have learned in the previous weeks in a single data science project. This will serve as your assignment submission for the course and will be assessed.
+
+There will be two parts to the Capstone Project.The important thing is to demonstrate techniques you have learned in the course and in Part 2 to describe and justify your approach. Do both parts.
+
+Part 1: Guided challenge (Datasets and some structured questions)
+Part 2: Open-ended challenge (You will select your own data and come up with your own questions and answers).
+Assignment submissions should be prepared as two Jupyter Notebooks. Part 1 will be given to you as a Jupyter Notebook to complete, with a description of what to do for Part 2 at the end of it. Part 2 should be prepared as a separate notebook that you will create yourself. Please include your input datasets or ensure that your code in your notebook can recreate the input data. Assignment submission must be sent to the tutor by email before the deadline below.
+
+*Deadline for assignment submission will be **5 April 2019, 11.59PM***.
 
 ### Links of interest
 - [Project Gutenberg](www.gutenberg.org/ebooks/). A free resources of public domain ebooks; nice source of natural language data to play with.
