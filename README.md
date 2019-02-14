@@ -2,7 +2,7 @@
 
 Materials for [Programming for Data Science at Oxford](https://www.conted.ox.ac.uk/courses/programming-for-data-science) - **this page will be updated as the course progresses**.
 
-The class workspace on **Slack** is https://ox-p4ds.slack.com where you have a dedicated class channel `#ht19`. I encourage you to ask questions should you have them in the Slack channel incase your classmates can help. David and Massi (your tutors) and Ramon (your teaching assistant) will also check Slack and provide support where possible. Download Slack from: https://slack.com/get
+The class workspace on **Slack** is https://ox-p4ds.slack.com where you have a dedicated class channel `#ht19`. I encourage you to ask questions should you have them in the Slack channel incase your classmates can help. David and Massi (your tutors; david.johnson@conted.ox.ac.uk and massimiliano.izzo@oerc.ox.ac.uk) and Ramon (your TA; ramon.granell@oerc.ox.ac.uk) will also check Slack and provide support where possible. Download Slack from: https://slack.com/get
 
 
 To use **Jupyter** yourself, I recommend you download and install **Anaconda**, a Python Data Science Platform, from: https://www.anaconda.com/download/ Make sure you download the **Python 3** version of Anaconda. You can also install Jupyter if you have a standard Python distribution installed. Ask your tutors for assistance if you need to install Jupyter on your own machine.
