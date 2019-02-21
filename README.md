@@ -88,7 +88,7 @@ Getting data from public sources.
 Data Visualization.
 
 - Lecture 5: https://tinyurl.com/y688z2nw
-- Practical exercises on functions and data visualizations
+- Exercise 10: Functions and Visualization (intro)  [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/djcomlab/ox-p4ds/master?filepath=notebooks%2FEx10_Functions_and_Visualizations.ipynb) 
 
 ### Week 6
 
