@@ -81,6 +81,7 @@ Getting data from public sources.
 
 - Lecture 4: https://goo.gl/zjFh94
 - Exercise 9: Twitter API with Tweepy [![nbviewer](notebooks/images/render_nbviewer_button.png)](https://nbviewer.jupyter.org/github/djcomlab/ox-p4ds/blob/master/notebooks/Ex09_Twitter_API_with_Tweepy.ipynb) [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/djcomlab/ox-p4ds/master?filepath=notebooks%2FEx09_Twitter_API_with_Tweepy.ipynb)
+- Exercise 9: Twitter API with Tweepy (complete) [![nbviewer](notebooks/images/render_nbviewer_button.png)](https://nbviewer.jupyter.org/github/djcomlab/ox-p4ds/blob/master/notebooks/Ex09_Twitter_API_with_Tweepy_complete.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/djcomlab/ox-p4ds/master?filepath=notebooks%2FEx09_Twitter_API_with_Tweepy_complete.ipynb)
 - Link to evaluation form: https://goo.gl/forms/H2KKr2acQDetDhbl1
 
 ### Week 5
