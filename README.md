@@ -87,7 +87,7 @@ Getting data from public sources.
 
 Data Visualization.
 
-- Lecture 5: TBC
+- Lecture 5: https://tinyurl.com/y688z2nw
 - Practical exercises on functions and data visualizations
 
 ### Week 6
