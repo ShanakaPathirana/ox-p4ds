@@ -88,7 +88,7 @@ Getting data from public sources.
 Data Visualization.
 
 - Lecture 5: https://tinyurl.com/y688z2nw
-- Exercise 10: Functions and Visualization (intro): [![nbviewer](notebooks/images/render_nbviewer_button.png)] (https://nbviewer.jupyter.org/github/djcomlab/ox-p4ds/blob/master/notebooks/Ex10_Functions_and_Visualizations.ipynb#) [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/djcomlab/ox-p4ds/master?filepath=notebooks%2FEx10_Functions_and_Visualizations.ipynb) 
+- Exercise 10: Functions and Visualization (intro) [![nbviewer](notebooks/images/render_nbviewer_button.png)](https://nbviewer.jupyter.org/github/djcomlab/ox-p4ds/blob/master/notebooks/Ex10_Functions_and_Visualizations.ipynb#) [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/djcomlab/ox-p4ds/master?filepath=notebooks%2FEx10_Functions_and_Visualizations.ipynb) 
 
 ### Week 6
 
