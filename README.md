@@ -94,9 +94,9 @@ Data Visualization.
 
 ### Week 6
 
-Sharing analyses.
+Introduction to Statistics; sharing analyses.
 
-- Lecture 6: TBC
+- Lecture 6: https://tinyurl.com/yxklpqt8
 - Practical exercises on documentation in notebooks using Markdown
 - Practical exercise on publishing your work on GitHub and Binder
 
