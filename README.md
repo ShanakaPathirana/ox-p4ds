@@ -97,7 +97,8 @@ Data Visualization.
 Introduction to Statistics; sharing analyses.
 
 - Lecture 6: https://tinyurl.com/yxklpqt8
-- Practical exercises on documentation in notebooks using Markdown
+- Practical exercises on statistics (histograms, KDE and T-test): [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/djcomlab/ox-p4ds/master?filepath=notebooks%2FEx11_Basic_Statistics.ipynb)
+
 - Practical exercise on publishing your work on GitHub and Binder
 
 ### Week 7
