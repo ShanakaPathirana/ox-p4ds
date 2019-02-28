@@ -90,16 +90,15 @@ Data Visualization.
 
 - Lecture 5: https://tinyurl.com/y688z2nw
 - Exercise 10: Functions and Visualization (intro) [![nbviewer](notebooks/images/render_nbviewer_button.png)](https://nbviewer.jupyter.org/github/djcomlab/ox-p4ds/blob/master/notebooks/Ex10_Functions_and_Visualizations.ipynb#) [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/djcomlab/ox-p4ds/master?filepath=notebooks%2FEx10_Functions_and_Visualizations.ipynb) 
-- Exercise 11: Bokeh notebook tutorials (only do tutorials 1-4, unless you're feeling adventurous!) [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/bokeh/bokeh-notebooks/master?filepath=tutorial%2F00%20-%20Introduction%20and%20Setup.ipynb) or download from https://github.com/bokeh/bokeh-notebooks/tree/master/tutorial
+- Exercise 10A: Bokeh notebook tutorials (only do tutorials 1-4, unless you're feeling adventurous!) [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/bokeh/bokeh-notebooks/master?filepath=tutorial%2F00%20-%20Introduction%20and%20Setup.ipynb) or download from https://github.com/bokeh/bokeh-notebooks/tree/master/tutorial
 
 ### Week 6
 
 Introduction to Statistics; sharing analyses.
 
 - Lecture 6: https://tinyurl.com/yxklpqt8
-- Practical exercises on statistics (histograms, KDE and T-test): [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/djcomlab/ox-p4ds/master?filepath=notebooks%2FEx11_Basic_Statistics.ipynb)
-
-- Practical exercise on publishing your work on GitHub and Binder
+- Exercise 11: Basic Statistics (histograms, KDE and T-test) [![nbviewer](notebooks/images/render_nbviewer_button.png)](https://nbviewer.jupyter.org/github/djcomlab/ox-p4ds/blob/master/notebooks/Ex11_Basic_Statistics.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/djcomlab/ox-p4ds/master?filepath=notebooks%2FEx11_Basic_Statistics.ipynb)
+- Exercise 11A: publishing your work on GitHub and Binder
 
 ### Week 7
 
