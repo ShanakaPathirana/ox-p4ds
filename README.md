@@ -145,4 +145,17 @@ Assignment submissions should be prepared as two Jupyter Notebooks. Part 1 will 
 - [Project Gutenberg](www.gutenberg.org/ebooks/). A free resources of public domain ebooks; nice source of natural language data to play with.
 - [Python for Everybody (online book)](https://www.py4e.com/html3/). An excellent introduction to the core parts of Python 3 programming. Chapters 1-9 are most relevant.
 - [A simple overview of Python variables, expressions and statements](https://www.pythonlearn.com/html-008/cfbook003.html).
+- [Detailed documentation on using NumPy](https://docs.scipy.org/doc/numpy/user/index.html).
+- [Detailed documentation on using Pandas](https://pandas.pydata.org/pandas-docs/stable/).
+- [Detailed documentation on using Bokeh](https://bokeh.pydata.org/en/latest/).
+- [Detailed documentation on using Scrapy](https://doc.scrapy.org/en/latest/).
+- [Detailed documentation on using Tweepy](http://docs.tweepy.org/en/latest/).
+- [Kaggle datasets](https://kaggle.com/datasets).
+- [CKAN index of public open data repositories](https://ckan.org/about/instances/).
+- [Awesome Public Datasets catalogue](https://github.com/awesomedata/awesome-public-datasets).
+- [Python basics cheatsheet by DataQuest](https://www.dataquest.io/blog/python-cheat-sheet/).
+- [Python intermediate cheatsheet by DataQuest](https://www.dataquest.io/blog/data-science-python-cheat-sheet/).
+- [Python NumPy cheatsheet by DataQuest](https://www.dataquest.io/blog/numpy-cheat-sheet/).
+- [Python Pandas cheatsheet by DataQuest](https://www.dataquest.io/blog/pandas-cheat-sheet/).
+- [Markdown cheatsheet by GitHub](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 - Useful links will be added here each week.
