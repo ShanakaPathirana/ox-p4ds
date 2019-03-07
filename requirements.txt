@@ -8,3 +8,6 @@ scikit-learn
 bokeh
 nltk
 ipykernel<5.0.0
+pyspark==2.3.0
+nbserverproxy
+py4j
