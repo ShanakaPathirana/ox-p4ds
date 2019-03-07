@@ -10,4 +10,4 @@ nltk
 ipykernel<5.0.0
 pyspark>=2.3.2
 nbserverproxy
-py4j==0.10.6
+py4j==0.10.7
