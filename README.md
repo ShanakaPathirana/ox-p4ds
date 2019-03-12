@@ -162,3 +162,19 @@ Assignment submissions should be prepared as two Jupyter Notebooks. Part 1 will 
 - [Python Pandas cheatsheet by DataQuest](https://www.dataquest.io/blog/pandas-cheat-sheet/).
 - [Markdown cheatsheet by GitHub](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 - Useful links will be added here each week.
+
+## License
+
+The contents of this repository are licensed for reuse under Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) except where otherwise stated.
+
+Exercises 8, 9, and 12-14 are Copyright © David Johnson, 2018-19, and provided for use with permission for the Hilary Term 2019 University of Oxford course "Programming for Data Science".
+
+Exercise 11 is Copyright © Massimiliano Izzo, 2019, and provided for use with permission for the Hilary Term 2019 University of Oxford course "Programming for Data Science".
+
+## Attribution
+
+Exercises 1-4 are adapted from https://github.com/ipython/ipython-in-depth and licensed for reuse under Creative Commons Attribution 4.0 International (CC BY 4.0).
+
+Exercises 5-7, 10 and Capstone Project Part 1 are adapted from https://github.com/data-8/data8assets licensed for reuse under Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).
+
+Exercises 10A links to the Bokeh Tutorial notebooks in https://github.com/bokeh/bokeh-notebooks/ and are Copyright © 2012, Continuum Analytics, Inc.
