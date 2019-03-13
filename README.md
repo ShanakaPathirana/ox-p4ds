@@ -46,7 +46,7 @@ git reset --hard origin/master
 ### Week 1
 
 Introduction to Data Science.
-- Lecture 1 handouts: https://goo.gl/Q3iD7p
+- Lecture 1: https://goo.gl/Q3iD7p
 - Exercise 1: Jupyter Notebook Basics [![nbviewer](notebooks/images/render_nbviewer_button.png)](https://nbviewer.jupyter.org/github/djcomlab/ox-p4ds/blob/master/notebooks/Ex01_Notebook_Basics.ipynb) (run on local Jupyter installation)
 - Exercise 2: Running Code [![nbviewer](notebooks/images/render_nbviewer_button.png)](https://nbviewer.jupyter.org/github/djcomlab/ox-p4ds/blob/master/notebooks/Ex02_Running_Code.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/djcomlab/ox-p4ds/master?filepath=notebooks%2FEx02_Running_Code.ipynb)
 - Exercise 3: Working with Markdown cells [![nbviewer](notebooks/images/render_nbviewer_button.png)](https://nbviewer.jupyter.org/github/djcomlab/ox-p4ds/blob/master/notebooks/Ex03_Working_With_Markdown_Cells.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/djcomlab/ox-p4ds/master?filepath=notebooks%2FEx03_Working_With_Markdown_Cells.ipynb)
@@ -57,7 +57,7 @@ Introduction to Data Science.
 
 Python Primer.
 
-- Lecture 2 handouts: https://tinyurl.com/ycvncsup
+- Lecture 2: https://tinyurl.com/ycvncsup
 - Exercise 5: Getting started with Python, numbers, and functions: [![nbviewer](notebooks/images/render_nbviewer_button.png)](https://nbviewer.jupyter.org/github/djcomlab/ox-p4ds/blob/master/notebooks/Ex05_Expressions.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/djcomlab/ox-p4ds/master?filepath=notebooks%2FEx05_Expressions.ipynb)
 - Exercise 5: Expressions (complete) [![nbviewer](notebooks/images/render_nbviewer_button.png)](https://nbviewer.jupyter.org/github/djcomlab/ox-p4ds/blob/master/notebooks/Ex05_Expressions_complete.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/djcomlab/ox-p4ds/master?filepath=notebooks%2FEx05_Expressions_complete.ipynb)
 
@@ -65,7 +65,7 @@ Python Primer.
 
 Playing with Pandas.
 
-- Lecture 3 handouts: https://goo.gl/H51dVE
+- Lecture 3: https://goo.gl/H51dVE
 - Exercise 6: Data Types [![nbviewer](notebooks/images/render_nbviewer_button.png)](https://nbviewer.jupyter.org/github/djcomlab/ox-p4ds/blob/master/notebooks/Ex06_Data_Types.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/djcomlab/ox-p4ds/master?filepath=notebooks%2FEx06_Data_Types.ipynb)
 - Exercise 6: Data Types (complete) [![nbviewer](notebooks/images/render_nbviewer_button.png)](https://nbviewer.jupyter.org/github/djcomlab/ox-p4ds/blob/master/notebooks/Ex06_Data_Types_complete.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/djcomlab/ox-p4ds/master?filepath=notebooks%2FEx06_Data_Types_complete.ipynb)
 - Exercise 7: Tables [![nbviewer](notebooks/images/render_nbviewer_button.png)](https://nbviewer.jupyter.org/github/djcomlab/ox-p4ds/blob/master/notebooks/Ex07_Tables.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/djcomlab/ox-p4ds/master?filepath=notebooks%2FEx07_Tables.ipynb)
@@ -118,9 +118,11 @@ Big Data.
 
 Machine Learning.
 
-- Lecture 8: TBC
-- Practical exercise on a simple Machine Learning
-- Practical exercises on Sentiment Analysis
+- Lecture 8: https://goo.gl/rV3ghU
+- Exercise 14: Classification and regression [![nbviewer](notebooks/images/render_nbviewer_button.png)](https://nbviewer.jupyter.org/github/djcomlab/ox-p4ds/blob/master/notebooks/Ex14_Classification_and_Regression.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/djcomlab/ox-p4ds/master?filepath=notebooks%2FEx14_Classification_and_Regression.ipynb)
+- Exercise 15: Association analysis [![nbviewer](notebooks/images/render_nbviewer_button.png)](https://nbviewer.jupyter.org/github/djcomlab/ox-p4ds/blob/master/notebooks/Ex15_Association_analysis_for_FoodForAll.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/djcomlab/ox-p4ds/master?filepath=notebooks%2FEx15_Association_analysis_for_FoodForAll.ipynb)
+- Exercise 16: Text analytics [![nbviewer](notebooks/images/render_nbviewer_button.png)](https://nbviewer.jupyter.org/github/djcomlab/ox-p4ds/blob/master/notebooks/Ex16_Text_Classification_of_Consumer_Complaints.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/djcomlab/ox-p4ds/master?filepath=notebooks%2FEx16_Text_Classification_of_Consumer_Complaints.ipynb)
+- Exercise 17: Sentiment analysis [![nbviewer](notebooks/images/render_nbviewer_button.png)](https://nbviewer.jupyter.org/github/djcomlab/ox-p4ds/blob/master/notebooks/Ex17_Sentiment_Analysis.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/djcomlab/ox-p4ds/master?filepath=notebooks%2FEx17_Sentiment_Analysis.ipynb)
 
 ### Week 9
 
@@ -167,7 +169,7 @@ Assignment submissions should be prepared as two Jupyter Notebooks. Part 1 will 
 
 The contents of this repository are licensed for reuse under Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) except where otherwise stated.
 
-Exercises 8, 9, and 12-14 are Copyright © David Johnson, 2018-19, and provided for use with permission for the Hilary Term 2019 University of Oxford course "Programming for Data Science".
+Exercises 8, 9, and 12-17 are Copyright © David Johnson, 2018-19, and provided for use with permission for the Hilary Term 2019 University of Oxford course "Programming for Data Science".
 
 Exercise 11 is Copyright © Massimiliano Izzo, 2019, and provided for use with permission for the Hilary Term 2019 University of Oxford course "Programming for Data Science".
 
