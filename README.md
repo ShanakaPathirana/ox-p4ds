@@ -125,6 +125,8 @@ Machine Learning.
 - Exercise 15: Association analysis [![nbviewer](notebooks/images/render_nbviewer_button.png)](https://nbviewer.jupyter.org/github/djcomlab/ox-p4ds/blob/master/notebooks/Ex15_Association_analysis_for_FoodForAll.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/djcomlab/ox-p4ds/master?filepath=notebooks%2FEx15_Association_analysis_for_FoodForAll.ipynb)
 - Exercise 16: Text analytics [![nbviewer](notebooks/images/render_nbviewer_button.png)](https://nbviewer.jupyter.org/github/djcomlab/ox-p4ds/blob/master/notebooks/Ex16_Text_Classification_of_Consumer_Complaints.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/djcomlab/ox-p4ds/master?filepath=notebooks%2FEx16_Text_Classification_of_Consumer_Complaints.ipynb)
 - Exercise 17: Sentiment analysis [![nbviewer](notebooks/images/render_nbviewer_button.png)](https://nbviewer.jupyter.org/github/djcomlab/ox-p4ds/blob/master/notebooks/Ex17_Sentiment_Analysis.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/djcomlab/ox-p4ds/master?filepath=notebooks%2FEx17_Sentiment_Analysis.ipynb)
+- [AI companion video](https://www.youtube.com/watch?v=BmDMNguQUmM&t=56s)
+- [Energy analytics paper](https://www.sciencedirect.com/science/article/pii/S0196890414011194)
 
 ### Week 9
 
