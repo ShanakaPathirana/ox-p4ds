@@ -13,3 +13,6 @@ nbserverproxy
 py4j==0.10.7
 keras
 tensorflow
+mlxtend
+textmining3
+graphviz

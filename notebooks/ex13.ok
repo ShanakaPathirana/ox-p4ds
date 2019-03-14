@@ -1,0 +1,15 @@
+{
+  "name": "Exercise 13: Classification and Regression",
+  "endpoint": "uu/2is063/au18/lab2test",
+  "src": [
+    "Ex13_Classification_and_Regression.ipynb"
+  ],
+  "tests": {
+      "ok_tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "file_contents",
+      "grading",
+      "backup"
+  ]
+}

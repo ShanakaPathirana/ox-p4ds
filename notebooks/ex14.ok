@@ -1,0 +1,15 @@
+{
+  "name": "Exercise 14: Association Analysis for ForForAll",
+  "endpoint": "uu/2is063/au18/lab3test",
+  "src": [
+    "Ex14_Association_analysis_for_FoodForAll.ipynb"
+  ],
+  "tests": {
+      "ok_tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "file_contents",
+      "grading",
+      "backup"
+  ]
+}
